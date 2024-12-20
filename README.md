@@ -4,9 +4,11 @@ This Crop Recommendation System uses advanced machine learning algorithms to ass
 After comparing the performance of each algorithm, the Random Forest model was chosen for its superior accuracy and robustness in handling complex datasets.
 
 ✨ Key Features:
+
 🌱 Data-Driven Crop Prediction: Provides crop recommendations based on inputs like soil, temperature, humidity, and rainfall.
 🌳 Random Forest Model: Selected for its high performance, accuracy, and ability to handle diverse data inputs.
 📊 User-Friendly Interface: Simple interface for farmers to input their agricultural data and receive crop suggestions.
+
 💻 Technologies Used:
 🐍 Python
 📚 Scikit-learn (for machine learning models)
