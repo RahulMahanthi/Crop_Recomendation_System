@@ -6,13 +6,20 @@ After comparing the performance of each algorithm, the Random Forest model was c
 ✨ Key Features:
 
 🌱 Data-Driven Crop Prediction: Provides crop recommendations based on inputs like soil, temperature, humidity, and rainfall.
+
 🌳 Random Forest Model: Selected for its high performance, accuracy, and ability to handle diverse data inputs.
+
 📊 User-Friendly Interface: Simple interface for farmers to input their agricultural data and receive crop suggestions.
 
 💻 Technologies Used:
+
 🐍 Python
+
 📚 Scikit-learn (for machine learning models)
+
 🔢 Pandas & NumPy (for data manipulation)
+
 📉 Matplotlib (for data visualization)
+
 By using this system, farmers can make informed decisions, boost productivity, and adopt sustainable farming practices 🌾💡.
 
